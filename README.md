@@ -1,0 +1,3 @@
+- 📖 Researcher
+- 📐Mathematician
+- 👀 Algorithms and Complexity, Computational Geometry, Algorithmic Game Theory, Cryptography and Multimodal Retrieval.
